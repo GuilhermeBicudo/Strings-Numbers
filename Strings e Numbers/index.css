@@ -1,0 +1,42 @@
+body {
+    background-color: antiquewhite;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+h1 {
+    background-color: brown;
+    border-radius: 50px;
+    padding: 5px;
+    margin: 20px;
+    box-shadow: 1px 5px 5px;
+    color: aqua;
+}
+
+#botao {
+    background-color: aqua;
+    padding: 5px;
+    border-radius: 20px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+#res {
+    padding: 5px;
+    margin: 20px;
+    text-align: center;
+    color: brown;
+}
+
+section {
+    background-color: rgb(46, 162, 167);
+    padding: 20px; margin: 20px;
+    border-radius: 30px;
+    background-origin: padding-box;
+    border-style: groove;
+    box-shadow: 1px 5px 5px;
+}
